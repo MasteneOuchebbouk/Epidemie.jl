@@ -1,0 +1,7 @@
+name = "Epedimie"
+uuid = "74a6f183-55c7-4e31-9f92-5d340bd87ccd"
+authors = ["MasteneOuchebbouk<ouchebboukmasten2005@gmail.com>"]
+version = "0.0.1"
+
+[compat]
+julia = "1.10"
