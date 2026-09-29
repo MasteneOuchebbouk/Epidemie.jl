@@ -1,2 +1,2 @@
 using  Epedimie
-f(32)
+f(3)
