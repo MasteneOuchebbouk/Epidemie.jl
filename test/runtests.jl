@@ -2,5 +2,5 @@ using Epedimie
 using Test
 
 @testset "Epedimie.jl" begin
-    # Write your tests here.
+  f(4)
 end
